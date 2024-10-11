@@ -1,4 +1,4 @@
-assignment 1 for python course 
+Assignment 1 for python course 
 
 Topics: 
 * Syntax and variables
@@ -6,3 +6,5 @@ Topics:
 * Tuples and Sets
 * Control flow
 * Function
+
+Details of exercises are in the assignment file
