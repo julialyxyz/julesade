@@ -1,7 +1,8 @@
 Assignment 4 for python course
 
-Topic:
+Topic: Basic libraries
 
-Basic libraries
-
-Libaries used: os, glob, pandas
+Libaries used: 
+* os
+* glob
+* pandas
