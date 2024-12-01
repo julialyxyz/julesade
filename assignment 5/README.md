@@ -4,10 +4,10 @@ Topic: Basic libraries II
 
 Libaries used:
 
-os
-glob
-re
-numpy
-json
-pickle
-datetime
+* os
+* glob
+* re
+* numpy
+* json
+* pickle
+* datetime
